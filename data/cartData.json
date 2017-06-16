@@ -1,0 +1,23 @@
+{
+	"status":1,
+	"result":{
+	"totalMoney":59,
+	"list":[
+		{
+			"name":"老北京炸酱面",
+			"imgUrl":"img/1.jpg",
+			"jieshao":"苏格兰打卤面，大杯可乐",
+			"price":20,
+			"quentity":1
+		},
+		{
+			"name":"宫爆鸡丁",
+			"imgUrl":"img/2.jpg",
+			"jieshao":"宫爆鸡丁一份，两碗米饭",
+			"price":25,
+			"quentity":11
+		}
+	]
+},
+"message":""
+}
